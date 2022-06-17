@@ -6,4 +6,6 @@ go to the minecraft folder for hacks
 go to the roblox folder
 # blooket hacks 
 go to school hacks then blooket find blooket ui.txt
-or press [here]().
+or press [here](https://github.com/VIPKING-O1/hacks-for-things/blob/main/school%20games/blooket/blooket%20ui.txt)
+after press copy
+![ ](/bin/md images/copy.png "Title")
