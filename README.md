@@ -8,4 +8,4 @@ go to the roblox folder
 go to school hacks then blooket find blooket ui.txt
 or press [here](https://github.com/VIPKING-O1/hacks-for-things/blob/main/school%20games/blooket/blooket%20ui.txt)
 after press copy
-![ ](/bin/md images/copy.png "Title")
+![ ](/bin/mdimages/copy.png "Title")
