@@ -5,5 +5,5 @@ go to the minecraft folder for hacks
 # roblox hacks 
 go to the roblox folder
 # blooket hacks 
-temp location
-https://github.com/VIPKING-O1/blooket-hack
+go to school hacks then blooket find blooket ui.txt
+or press [here]().
